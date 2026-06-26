@@ -48,17 +48,18 @@ I'm a Front-End & React Native Developer with 4+ years of experience building sc
 * Performance Optimization
 * UI/UX Implementation
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
 
-* AI for Developers
-* Advanced React Patterns
+• AI-powered mobile applications
+• Advanced React Native architecture
+• Performance optimization
 * Next.js
 * System Design
 
 ## 📫 Connect With Me
 
 LinkedIn:
-https://www.linkedin.com/in/awaishaniflr/
+https://www.linkedin.com/in/awaishaniflr
 
 GitHub:
 https://github.com/awaishaniflhr
